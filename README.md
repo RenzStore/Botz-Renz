@@ -16,7 +16,7 @@
 
 ------
 
-# ```BASE SC ZERO YT7```
+# ```BASE SC RENZZ BOTZ```
 <p align="center">
 <a href="https://github.com/Zero-YT7/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zero-YT7?color=red&style=flat-square"></a>
 <a href="https://github.com/Zero-YT7/Base-ZeroYT7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zero-YT7/Base-ZeroYT7?color=blue&style=flat-square"></a>
@@ -34,10 +34,10 @@
 
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
-<a href="https://instagram.com/ZeroYT7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6285157740529"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/ZeroYT7"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/ZeroYT7" /><br>
-<a href="https://tiktok.com/@_zeroyt7"><img src="https://img.shields.io/badge/Tiktok Zero YT7-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@zeroyt7" /></a>
+<a href="https://instagram.com/renzz_store19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/6281383035692"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/Renzz Store"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/ZeroYT7" /><br>
+<a href="https://tiktok.com/@_mrenditrikurnia"><img src="https://img.shields.io/badge/Tiktok Zero YT7-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@zeroyt7" /></a>
 </p>
 
 ## ```SETTING```
@@ -48,11 +48,11 @@
 
 ## ```DONASI```
 
-- [`SAWERIA`](https://saweria.co/ZeroYT7)
+- [`SAWERIA`](https://saweria.co/Renditrikurnia)
 
 ## ```GROUP BOT```
 
-- [`GROUP WA`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)
+- [`GROUP WA`](https://chat.whatsapp.com/DNzM4hRZk4sJdOnj8vZm9X)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
